@@ -33,6 +33,22 @@ Task Manager is a simple and intuitive task management web application that allo
 - **Tailwind CSS** for styling the application.
 - **Local Storage** for storing tasks locally on the user's browser.
 
+## Screenshots
+
+### Dashboard
+
+![image](https://github.com/user-attachments/assets/6d1f37f8-3341-4fbd-b9e8-2ead4384d10a)
+
+
+### Search
+
+![image](https://github.com/user-attachments/assets/6d3fee98-c46f-4314-abf8-45a764bd5b62)
+
+### Edit
+
+![image](https://github.com/user-attachments/assets/688e608f-3606-467f-adb4-5557ea63109a)
+
+
 ## Installation
 
 ### Clone the repository
