@@ -1,7 +1,8 @@
 # Task Manager
 
-Task Manager is a simple and intuitive task management web application that allows users to manage tasks effectively. With the ability to create, update, delete, and search tasks, this app is designed to help you organize your daily to-dos. The app also offers task prioritization, completion tracking, and sorting features to help keep your tasks organized.
+Task Manager is a simple and intuitive task management web application that allows users to manage tasks effectively. With the ability to create, update, delete, and search tasks, this app is designed to help you organize your daily to-dos. The app also offers task prioritization, completion tracking, and sorting features to help keep your tasks organized. <br>
 
+Live Project [Link](https://taskmanager-reactapp.vercel.app/)
 ## Features
 
 ### 1. **Task Search**
@@ -53,6 +54,10 @@ Task Manager is a simple and intuitive task management web application that allo
 
 ### Clone the repository
 
-```bash
+```
 git clone https://github.com/AryanJ2004/task-manager_React.git
 cd task-manager_React
+npm install
+npm run dev
+```
+Open http://localhost:5173/ to see project
